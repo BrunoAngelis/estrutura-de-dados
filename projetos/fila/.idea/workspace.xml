@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aefdfe7a-d929-432f-af38-90e8edd02185" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/src/test/java/one/difitalinnovation/ArvoreBinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/src/test/java/one/difitalinnovation/BinNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/src/test/java/one/difitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/src/test/java/one/difitalinnovation/model/Obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arvorebinaria/src/test/java/one/difitalinnovation/model/ObjArvore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalshashcode/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/src/test/java/dio/digitalinnovation/ListaCircular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/src/test/java/dio/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listacriculares/src/test/java/dio/digitalinnovation/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/src/test/java/one/digitalinnovation/ListaDuplamenteEncadeada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/src/test/java/one/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaduplamenteencadeada/src/test/java/one/digitalinnovation/NoDuplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/src/main/java/one/digitalinovation/ListaEncadeada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/src/main/java/one/digitalinovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/src/main/java/one/digitalinovation/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaencadeada/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/src/main/java/one/digitalinovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/src/main/java/one/digitalinovation/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pilha/src/main/java/one/digitalinovation/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/src/main/java/com/projetono/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetono/src/main/java/com/projetono/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queue/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/main/java/one/digitalinnovation/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/main/java/one/digitalinnovation/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DHiYo7gs2UJ8qWIWyHTFiPPto4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/DIO/estrutura-de-dados/projetos/fila"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aefdfe7a-d929-432f-af38-90e8edd02185" name="Changes" comment="" />
+      <created>1660362462911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660362462911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
